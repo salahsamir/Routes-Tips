@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+nav .active {
+    color: rgb(73, 73, 159);
+    background-color: rgb(228, 228, 243);
+    padding: 5px 10px;
+    border-radius: 20px;
+    
+  }
+body{
+  background: #010930;
+  padding: 3rem;
+}
